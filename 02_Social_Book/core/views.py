@@ -11,6 +11,7 @@ import random
 
 # All account password - 12345
 # Admin ID & PWD - admin
+# Restore pip - python -m ensurepip
 
 
 # Create your views here.
